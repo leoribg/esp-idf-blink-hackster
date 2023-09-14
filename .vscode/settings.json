@@ -1,0 +1,9 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM21",
+  "idf.port": "rfc2217://host.docker.internal:4000?ign_set_control",
+  "idf.adapterTargetName": "esp32c6",
+  "idf.openOcdConfigs": [
+    "board/esp32c6-ftdi.cfg"
+  ]
+}
